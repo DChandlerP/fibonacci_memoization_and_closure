@@ -1,0 +1,14 @@
+{
+  "name": "fib-memo",
+  "version": "1.0.0",
+  "description": "Example of why Memoization is useful",
+  "main": "fib.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Prince",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
